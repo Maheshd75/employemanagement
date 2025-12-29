@@ -1,5 +1,5 @@
 
-import Sidebar from "./components/sidebar";
+import Sidebar from "./components/Sidebar";
 import EmployeeTable from "./components/EmployeeTable";
 import {  Route, Routes } from "react-router-dom";
 import EmployeeModal from "./components/EmployeeModal";
